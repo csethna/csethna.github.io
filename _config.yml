@@ -4,28 +4,28 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Cyrus Sethna"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Civic Technologist
 
-email: a-mail@mail.mail
+email: csethna@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/cs_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Cyrus Sethna'
+author: 'Cyrus Sethna'
+author_image: "/assets/images/headshot.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://csethna.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@c_sethna'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,22 +35,22 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/c_sethna
+    desc: Follow me on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+ - icon:	briefcase
+   url:	https://usds.gov
+   desc: U.S. Digital Service
+   share_url: https://www.facebook.com/sharer.php
+   share_title: ?t=
+   share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+  - icon:	linkedin
+    url:	https://linkedin.com/in/csethna
+    desc:	Connect on LinkedIn
     share_url:
     share_title:
     share_link:
